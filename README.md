@@ -1,2 +1,2 @@
-# ecommerceprojects
-my new ecommerce project.
+ecommerce
+
